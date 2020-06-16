@@ -1,2 +1,5 @@
-# smart-focus-pomodoro-timer
-A time management application built with Flutter and Dart to increase productivity based on the Pomodoro technique.
+# Smart Focus: Pomodoro Timer
+A time management application built with Flutter based on the Pomodoro technique.
+
+
+
